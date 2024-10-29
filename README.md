@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grish Gautam
 
-- 🌱 I’m currently learning kotlin, web development
+- 🌱 I’m currently learning flutter,MERN
 - 💞️ I’m open to collaborating on any type of project
 - 📫 you can contact me at grishgautam03@gmail.com
 
