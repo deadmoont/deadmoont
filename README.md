@@ -1,5 +1,7 @@
 # 💫 About Me:
 Hi 👋! My name is Grish Gautam and I'm a App/Web Developer, from India.
+💞️ I’m open to collaborating on any type of project
+
 
 
 ## 🌐 Socials:
