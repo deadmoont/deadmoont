@@ -1,6 +1,10 @@
-# 💫 About Me:
-Hi 👋! My name is Grish Gautam and I'm a App/Web Developer, from India.
-💞️ I’m open to collaborating on any type of project
+# Hi there, I'm Grish Gautam! 👋
+
+I'm a passionate **App & Web Developer** from India.
+
+- 🌱 I’m currently learning System Design
+- 💞️ I’m open to collaborating on Open Source projects
+- 💬 Ask me about React, Node.js, Flutter or Kotlin.
 
 
 
